@@ -8,7 +8,10 @@ any relevant websites, external references, and other cloud storages (e.g. Googl
 
 | Component | Summary |
 | --- | --- |
-| Playground | A collection of small `hello-world` like applications written in the technologies being used with eclipse-pass. <ul><li>Repo: [/eclipse-pass/playground](https://github.com/eclipse-pass/playground)</li><li>Docs: [/docs/playground.md](/docs/playground.md) |
+| Playground | A collection of small `hello-world` like applications written in the technologies being used with eclipse-pass. <ul><li>Repo: [/eclipse-pass/playground](https://github.com/eclipse-pass/playground)</li><li>Docs: [/docs/playground.md](/docs/playground.md)</li></ul> |
+
+Learn more about the [code delivery pipeline](/docs/pipeline.md) as we go from
+source code to deployed application.
 
 ## Troubleshooting
 
