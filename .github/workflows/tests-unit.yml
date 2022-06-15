@@ -18,5 +18,7 @@ jobs:
           path: ~/.m2
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
           restore-keys: ${{ runner.os }}-m2
+      - name: Say hi
+        run: echo "We are in the branch 215-actions"
       - name: Run Unit Tests
         run: mvn test --file pom.xml
